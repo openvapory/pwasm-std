@@ -1,6 +1,6 @@
-# pwasm-std
+# twasm-std
 
-Parity WASM contracts standard library for Rust
+Tetsy WASM contracts standard library for Rust
 
 [![Build Status](https://travis-ci.org/paritytech/pwasm-std.svg?branch=master)](https://travis-ci.org/paritytech/pwasm-std)
 
